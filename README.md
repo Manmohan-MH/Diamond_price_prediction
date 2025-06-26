@@ -25,18 +25,17 @@ This is a Flask-based web application that predicts the price of a diamond based
 ## Installation & Setup
 
 1. **Clone the repository**  
-   git clone https://github.com/yourusername/diamond-price-predictor.git
+   git clone https://github.com/Manmohan-MH/Diamond_price_prediction.git <br>
    cd diamond-price-predictor
 
 2. **Create and activate a virtual environment (recommended)**
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+conda create -p \venv == python 3.8 <br>
+conda activate .\venv
 
 3. **Install dependencies**
 pip install -r requirements.txt
 
 4.**Run the Flask app**
-Run the Flask app
 python app.py
 
 5.**Open your browser and go to**
