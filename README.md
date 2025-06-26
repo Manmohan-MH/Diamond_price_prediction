@@ -54,4 +54,14 @@ This is a Flask-based web application that predicts the price of a diamond based
 | Z       | Depth in mm                                                |
 | Cut     | Quality of the cut (Fair, Good, Very Good, Premium, Ideal) |
 | Color   | Diamond color grade (D to J)                               |
-| Clarity | Clarity grade (I1 to IF)                                   |
+| Clarity | Clarity grade (I1 to IF)      
+
+7. **Demonstration**     
+   - **Input** <br>            |
+    ![Diamond Input Form](Screenshots/Input1.png)
+    ![Diamond Input Form](Screenshots/Input2.png)
+
+    - **Output** <br>
+    ![Diamond Output](Screenshots/Output.png)
+
+
