@@ -28,7 +28,7 @@ This is a Flask-based web application that predicts the price of a diamond based
    git clone https://github.com/Manmohan-MH/Diamond_price_prediction.git <br>
    cd diamond-price-predictor
 
-2. **Create and activate a virtual environment (recommended)**
+2. **Create and activate a virtual environment (recommended)** <br>
     conda create -p \venv == python 3.8 <br>
     conda activate .\venv
 
