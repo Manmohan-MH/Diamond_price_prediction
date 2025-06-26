@@ -1,3 +1,6 @@
 pandas
 numpy
-ipykernel
+seaborn
+scikit-learn
+flask
+-e .
